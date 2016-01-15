@@ -4,8 +4,15 @@
         <description><![CDATA[ADCCLA]]></description>
         <link>https://thegrid.ai/adccla/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Jan 2016 22:50:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jan 2016 22:59:35 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/adccla/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[WHO WE ARE]]></title>
+            <description><![CDATA[<article><h1>WHO WE ARE</h1><p>The Arts District Community Council of LA (ADCCLA) is a 501c3 non profit organization made up of a district wide coalition of community stakeholders whose goal is to preserve, protect and enhance the neighborhood which it serves.  Our mission is to address the urban lifestyle needs of community stakeholders living and working in the Arts District. We provide information, services and opportunities to participate in rendering a true urban community with an emphasis on green solutions, enhancing and promoting art in the neighborhood and encouraging stakeholder participation.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/14efeec9103e91d3ef443b484f5ad5e0fc8e19a3.png"></article>]]></description>
+            <link>https://thegrid.ai/adccla/68eb02eb-dd94-426f-bda2-f5b3a73b48cb/index.html</link>
+            <guid isPermaLink="false">68eb02eb-dd94-426f-bda2-f5b3a73b48cb</guid>
+            <pubDate>Fri, 15 Jan 2016 22:59:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[SUPPORTING THE ARTS]]></title>
             <description><![CDATA[<article><h1>SUPPORTING THE ARTS</h1><p>A true Artist Community is one that finds the ability to support the work and talent of its most creative residents.  We understand that artists ARE the heart of this community.  Preserving that heart is paramount to it's continued success.</p></article>]]></description>
@@ -18,7 +25,7 @@
             <description><![CDATA[<article><h1>PUBLIC SPACES</h1><p>Big things coming to the neighborhood...In just the next two years, two large public developments will be coming to the neighborhood.  Lakretz Park, scheduled to open in early 2016 and the 6th St Bridge replacement.  The Arts District Community Council will be at the forefront of making sure that the Arts Districts interests are protected and preserved.</p></article>]]></description>
             <link>https://thegrid.ai/adccla/public-spaces/index.html</link>
             <guid isPermaLink="false">2ea91600-8a5a-49b5-bd23-80bc0ad1ed57</guid>
-            <pubDate>Fri, 15 Jan 2016 22:49:59 GMT</pubDate>
+            <pubDate>Fri, 15 Jan 2016 22:50:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[GREENING THE ARTS DISTRICT]]></title>
@@ -26,13 +33,6 @@
             <link>https://thegrid.ai/adccla/greening-the-arts-district/index.html</link>
             <guid isPermaLink="false">f5025a2e-dca2-4ced-b9f2-6a71e8d73d7c</guid>
             <pubDate>Fri, 15 Jan 2016 22:40:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[WHO WE ARE]]></title>
-            <description><![CDATA[<article><h1>WHO WE ARE</h1><p>The Arts District Community Council of LA (ADCCLA) is a 501c3 non profit organization made up of a district wide coalition of community stakeholders whose goal is to preserve, protect and enhance the neighborhood which it serves.  Our mission is to address the urban lifestyle needs of community stakeholders living and working in the Arts District. We provide information, services and opportunities to participate in rendering a true urban community with an emphasis on green solutions, enhancing and promoting art in the neighborhood and encouraging stakeholder participation.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/14efeec9103e91d3ef443b484f5ad5e0fc8e19a3.png"></article>]]></description>
-            <link>https://thegrid.ai/adccla/68eb02eb-dd94-426f-bda2-f5b3a73b48cb/index.html</link>
-            <guid isPermaLink="false">68eb02eb-dd94-426f-bda2-f5b3a73b48cb</guid>
-            <pubDate>Fri, 15 Jan 2016 22:43:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
