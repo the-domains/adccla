@@ -2,14 +2,14 @@
     <channel>
         <title><![CDATA[ADCCLA]]></title>
         <description><![CDATA[ADCCLA]]></description>
-        <link>https://thegrid.ai/adccla/</link>
+        <link>http://github.com/dylang/node-rss</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Jan 2016 22:17:45 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/adccla/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 15 Jan 2016 22:17:43 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/04e9d674-498c-4438-b8c9-a575d6916481.png">]]></description>
-            <link>https://thegrid.ai/adccla/68eb02eb-dd94-426f-bda2-f5b3a73b48cb/index.html</link>
+            <link>undefined68eb02eb-dd94-426f-bda2-f5b3a73b48cb/index.html</link>
             <guid isPermaLink="false">68eb02eb-dd94-426f-bda2-f5b3a73b48cb</guid>
             <pubDate>Fri, 15 Jan 2016 22:17:43 GMT</pubDate>
         </item>
