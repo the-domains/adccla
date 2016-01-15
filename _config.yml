@@ -1,7 +1,7 @@
 name: ADCCLA
 favicon: null
-layout_spectrum: 0.7731811045669019
-typography_spectrum: 0.3964456638786942
+layout_spectrum: 0.91888
+typography_spectrum: 0.05957
 cta:
   domain: null
   bucket: null
@@ -23,6 +23,6 @@ color:
     - '#253237'
   brandStrength: 0.4375
   lightness: 1
-  saturation: 0.4344973862171173
+  saturation: 1
   rhythmicContrast: 0.5121708363294601
 purpose: []
