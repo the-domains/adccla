@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-15T23:59:39.591Z'
-dateModified: '2016-01-15T23:59:30.040Z'
+datePublished: '2016-01-16T00:02:30.523Z'
+dateModified: '2016-01-16T00:02:27.294Z'
 title: LAURA VELKEI
 author: []
 sourcePath: _posts/2016-01-15-laura-velkei.md
@@ -22,6 +22,8 @@ url: laura-velkei/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e6acfdd2-fef9-41a0-8595-ba3516ebad86.jpg)
+
 Laura Velkei is a Senior Financial Manager serving high
 profile clients in the entertainment Industry. She is also an avid community activist with over 30 years of
 service.  
@@ -44,4 +46,3 @@ Founder of Community of Us
 
 3rd Vice President of the Historic Cultural
 Neighborhood Council
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e6acfdd2-fef9-41a0-8595-ba3516ebad86.jpg)
