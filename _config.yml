@@ -1,6 +1,6 @@
 name: ADCCLA
 favicon: null
-layout_spectrum: 0.69613
+layout_spectrum: 0.84664
 typography_spectrum: 0.04392
 title: Arts District Community Council LA - Change begins with one small action
 cta:
@@ -22,7 +22,7 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.5625
+  brandStrength: 0.5
   lightness: 1
   saturation: 1
   rhythmicContrast: 0.75
