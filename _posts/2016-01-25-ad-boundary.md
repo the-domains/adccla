@@ -6,20 +6,20 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-25T18:07:05.036Z'
-dateModified: '2016-01-25T18:06:46.301Z'
+datePublished: '2016-01-25T18:27:28.245Z'
+dateModified: '2016-01-25T18:07:51.623Z'
 title: AD BOUNDARY
 author: []
+sourcePath: _posts/2016-01-25-ad-boundary.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-25-ad-boundary.md
-published: true
 url: ad-boundary/index.html
 _type: WebPage
 
 ---
-GOOGLE EMBED WILL NTO WORK
+GOOGLE EMBED WILL NOT WORK
