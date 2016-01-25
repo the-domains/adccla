@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'https://www.youtube.com/watch?v=H0yP4aLyq1g'
 inLanguage: null
 starred: false
 keywords: []
 description: "Subscribe -~-~~-~~~-~~-~- I Have a Dream Speech Martin Luther King's Address at March on Washington August 28, 1963. Washington, D.C."
-datePublished: '2016-01-25T18:54:03.278Z'
-dateModified: '2016-01-25T18:53:33.163Z'
+datePublished: '2016-01-25T18:55:01.131Z'
+dateModified: '2016-01-25T18:54:56.744Z'
 author:
   - name: xBLACKxOPSxSECRETSx
     url: 'https://www.youtube.com/user/xBLACKxOPSxSECRETSx'
@@ -16,14 +15,15 @@ author:
 related: []
 app_links: []
 title: 'Martin Luther King - I Have A Dream Speech - August 28, 1963 (Full Speech)'
+sourcePath: _posts/2016-01-25-martin-luther-king-i-have-a-dream-speech-august-28-1963.md
+published: true
 authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://www.youtube.com/favicon.ico'
-sourcePath: _posts/2016-01-25-martin-luther-king-i-have-a-dream-speech-august-28-1963.md
-published: true
+url: martin-luther-king-i-have-a-dream-speech-august-28-1963/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
