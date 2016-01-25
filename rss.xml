@@ -4,8 +4,15 @@
         <description><![CDATA[Arts District Community Council LA - Change begins with one small action]]></description>
         <link>https://thegrid.ai/adccla/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Jan 2016 18:28:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jan 2016 18:29:01 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/adccla/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[GREENING THE ARTS DISTRICT]]></title>
+            <description><![CDATA[<h1>GREENING THE ARTS DISTRICT</h1>]]></description>
+            <link>https://thegrid.ai/adccla/greening-the-arts-district/index.html</link>
+            <guid isPermaLink="false">f5025a2e-dca2-4ced-b9f2-6a71e8d73d7c</guid>
+            <pubDate>Mon, 25 Jan 2016 18:28:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[SUPPORTING THE ARTS]]></title>
             <description><![CDATA[<article><h1>SUPPORTING THE ARTS</h1><p>A true Artist Community is one that finds the ability to support the work and talent of its most creative residents.  We understand that artists ARE the heart of this community.  Preserving that heart is paramount to it's continued success.</p></article>]]></description>
@@ -26,13 +33,6 @@
             <link>https://thegrid.ai/adccla/68eb02eb-dd94-426f-bda2-f5b3a73b48cb/index.html</link>
             <guid isPermaLink="false">68eb02eb-dd94-426f-bda2-f5b3a73b48cb</guid>
             <pubDate>Fri, 15 Jan 2016 22:59:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[GREENING THE ARTS DISTRICT]]></title>
-            <description><![CDATA[<h1>GREENING THE ARTS DISTRICT</h1>]]></description>
-            <link>https://thegrid.ai/adccla/greening-the-arts-district/index.html</link>
-            <guid isPermaLink="false">f5025a2e-dca2-4ced-b9f2-6a71e8d73d7c</guid>
-            <pubDate>Fri, 15 Jan 2016 23:01:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
